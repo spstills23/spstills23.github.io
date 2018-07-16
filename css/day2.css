@@ -11,6 +11,14 @@ justify-content: center;
 margin-bottom: 30px;
 }
 
+h1{
+    margin-top: 70px;
+    font-family: 'Droid Sans', sans-serif;
+    font-weight: bold;
+    color: #58595a;
+    justify-content:center;
+    text-shadow:1px 1px 3px rgba(0,0,0,.8);
+}
 /* Add a darker gray background color and some padding to the footer */
 
 footer {

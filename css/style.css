@@ -203,12 +203,8 @@ a:hover{
   text-align: center;
   font-size:2em;
   color: #0c5cbd;
-  text-shadow: 2px 2px 3px rgba(0,0,0,.8);
-  background: rgba(255, 255, 255, 0.452);
-  box-shadow:2px 2px 15px rgba(0,0,0,.8); 
-  opacity: .7;
+  text-shadow:  1px 3px 4px rgba(0,0,0,.6);
   display:block;
-  box-sizing: border-box;
   width: 50%;
   border-radius: 8px;
   margin: auto auto;
